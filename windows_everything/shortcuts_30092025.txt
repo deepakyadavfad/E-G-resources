@@ -4,5 +4,5 @@ ctrl+w : close file dialogue
 ctrl+[ : (left=start=less) decrease font size by 1 point
 ctrl+] : (right=end=more) increase font size by 1
 ctrl+E : centre all the texts in the line(centre paragraph style)
-ctrl+alt+s : (alt=alag, s=split) : split/unsplit document(also alt+shift+c,c=close for unsplit)
+ctrl+alt+s : (alt=alag, s=split)split/unsplit document(also alt+shift+c,c=close for unsplit)
 ctrl+z/y : undo/redo
