@@ -1,6 +1,6 @@
 ctrl+backspace : deletes 1 word to left
 ctrl+o : open new file dialogue
-ctrl+w : close new file dialogue
+ctrl+w : close file dialogue
 ctrl+[ : (left=start=less) decrease font size by 1 point
 ctrl+] : (right=end=more) increase font size by 1
 ctrl+E : centre all the texts in the line(centre paragraph style)
