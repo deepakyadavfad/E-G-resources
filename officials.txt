@@ -1,13 +1,4 @@
-LG of Andaman and Nicobar Islands: Admiral D. K. Joshi (Retd.)
-Admistrator of Chandigarh: Gulab Chand Kataria(Punjab+Chandigarh)
-Governor of Punjab: Gulab Chand Kataria(Punjab+Chandigarh)
-LG of Delhi (NCT): Vinai Kumar Saxena
-LG of Jammu and Kashmir: Manoj Sinha
-LG of Ladakh: Kavinder Gupta
-Administrator of Lakshadweep: Praful Patel (Lakshadweep+Dadra and Nagar Haveli and Daman and Diu)
-Administrator of Dadra and Nagar Haveli and Daman and Diu: Praful Patel (Lakshadweep+Dadra and Nagar Haveli and Daman and Diu)
-LG of Puducherry: K. Kailashnathan
-Chief of Defence Staff (CDS): General Anil Chauhan
+Chief of Defence Staff (CDS): General Anil Chauhan(extended service)
 Chief of the Army Staff (COAS): General Upendra Dwivedi
 Chief of the Naval Staff (CNS): Admiral Dinesh Kumar Tripathi
 Chief of the Air Staff (CAS): Air Chief Marshal Amar Preet Singh
@@ -27,7 +18,7 @@ Minister of Commerce and Industry: Piyush Goyal
 Minister of Health and Family Welfare: Jagat Prakash Nadda
 Minister of Law and Justice: Arjun Ram Meghwal
 President: Droupadi Murmu
-Vice President: C. P. Radhakrishnan
+Vice President | secretary: C. P. Radhakrishnan | amit khare
 Prime Minister: Narendra Modi
 Speaker of the Lok Sabha: Om Birla
 Chief Justice of India (CJI): B. R. Gavai
@@ -35,6 +26,17 @@ Attorney General of India: R. Venkataramani
 Solicitor General of India: Tushar Mehta
 Comptroller and Auditor General (CAG): K. Sanjay Murthy
 Chief Election Commissioner: Gyanesh Kumar
+RBI Governor | RBI deputy Governor: Sanjay Malhotra | shirish chandra Murm(replacing M. rajeshwar rao)
+chairman of railway board : satish kumar(re-appointed)
+LG of Andaman and Nicobar Islands: Admiral D. K. Joshi (Retd.)
+Admistrator of Chandigarh: Gulab Chand Kataria(Punjab+Chandigarh)
+Governor of Punjab: Gulab Chand Kataria(Punjab+Chandigarh)
+LG of Delhi (NCT): Vinai Kumar Saxena
+LG of Jammu and Kashmir: Manoj Sinha
+LG of Ladakh: Kavinder Gupta
+Administrator of Lakshadweep: Praful Patel (Lakshadweep+Dadra and Nagar Haveli and Daman and Diu)
+Administrator of Dadra and Nagar Haveli and Daman and Diu: Praful Patel (Lakshadweep+Dadra and Nagar Haveli and Daman and Diu)
+LG of Puducherry: K. Kailashnathan
 Governor of Andhra Pradesh: Justice (Retd.) S. Abdul Nazeer
 Governor of Arunachal Pradesh: Lt. General Kaiwalya Trivikram Parnaik (Retd.)
 Governor of Assam: Lakshman Acharya(Assam+Manipur)
@@ -52,7 +54,7 @@ Governor of Kerala: Rajendra Vishwanath Arlekar
 Governor of Madhya Pradesh: Mangubhai C. Patel
 Governor of Meghalaya: C. H. Vijayashankar
 Governor of Mizoram: Kambhampati Hari Babu
-Governor of Nagaland: La. Ganesan
+Governor of Nagaland: Ajay Kumar Bhalla(replacing La. Ganesan)
 Governor of Odisha: Raghubar Das
 Governor of Rajasthan: Haribhau Bagade
 Governor of Sikkim: Om Prakash Mathur
@@ -62,3 +64,5 @@ Governor of Tripura: N. Indrasena Reddy
 Governor of Uttar Pradesh: Anandiben Patel
 Governor of Uttarakhand: Lt. Gen. Gurmit Singh (Retd.)
 Governor of West Bengal: C. V. Ananda Bose
+
+CM of Uttarakhand : Pushkar singh dhami
