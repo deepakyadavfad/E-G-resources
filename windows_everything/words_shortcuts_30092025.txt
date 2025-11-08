@@ -1,4 +1,5 @@
 ctrl+backspace : deletes 1 word to left
+ctrl+delete : deletes 1 word to the right
 ctrl+o : open new file/document dialogue
 ctrl+w : close file/document dialogue
 ctrl+n : create a new file/document directly(not dialogue)
@@ -11,9 +12,11 @@ ctrl+I : italics the single test where the cursor is present & there after all n
 ctrl+u : underline the single test where the cursor is present & there after all new words which is to be written from that word
 ctrl+E : centre the paragraph
 ctrl+L/R : align Left/Right the paragraph
+ctrl+M : indent the paragraph
 shift+enter : line break(moves to next line)
 ctrl+enter : page break(moves to next page)
 ctrl+alt+s : (alt=alag, s=split)split/unsplit document(also alt+shift+c,c=close for unsplit)
-ctrl+z/y : undo/redo
+ctrl+z/alt+backspace : undo
+ctrl+y/ctrl+shift+z(does not working in my laptop) : redo that was undone
 escape : cancel the dialogue/command
 what is hidden by default but shows after ctrl+* : paragraph mark(mirrored dark P), line break(enter line symbol), space(middle dot) etc.

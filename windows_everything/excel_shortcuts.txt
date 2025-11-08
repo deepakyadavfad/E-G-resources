@@ -1,0 +1,6 @@
+ctrl+- : delete dialogue(move cells up/down/left/right) in excel
+f4 : repeats the last command in excel(like we did ctrl+B to bold last cell then click on next cell & just press f4 to bold that too)
+shift+- : you might think that it will do something(but hell no, it's just to right _)
+alt+pageup/pagedown : comes to the left/right(pehle button up=left) of page on screen
+ctrl+pageup/pagedown : comes to the left(previous sheet)/right(next sheet)(pehle button up=left=previous) sheet
+floor/ceil(22.5,5) : =20/25(floor/ceil 22.5 to the nearest multiple of 5)
