@@ -1,0 +1,11 @@
+ctrl+- : delete dialogue(move cells up/down/left/right) in excel
+f4 : repeats the last command in excel(like we did ctrl+B to bold last cell then click on next cell & just press f4 to bold that too)
+shift+- : you might think that it will do something(but hell no, it's just to right _)
+alt+pageup/pagedown : comes to the left/right(pehle button up=left) of page on screen
+ctrl+pageup/pagedown : comes to the left(previous sheet)/right(next sheet)(pehle button up=left=previous) sheet
+floor/ceil(22.5,5) : =20/25(floor/ceil 22.5 to the nearest multiple of 5)
+ctrl+F : search in current sheet
+alt+enter : new line/1 line space btw the lines of the paragraph(will just make the texts after the cursor in the next line)
+f3 : opens the past names dialogue from which you can choose any of the data associated with the name(see the playlist video for defined names to remember everything)
+ribbon bar : the horizontal bar in office applications like file, home, insert draw BUT NO EDIT BUTTON REMEMBER(but in general applications we call it menu bar e.g. android studio with 3 bars=manu bar containing the edit option as well & settings etc.)(generally title bar at top=appllication name, status bar at botton=status of the current operation)
+lcm : lcm(5,6,35)=35

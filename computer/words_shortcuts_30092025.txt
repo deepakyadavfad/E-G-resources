@@ -12,7 +12,8 @@ ctrl+I : italics the single test where the cursor is present & there after all n
 ctrl+u : underline the single test where the cursor is present & there after all new words which is to be written from that word
 ctrl+E : centre the paragraph
 ctrl+L/R : align Left/Right the paragraph
-ctrl+M : indent the paragraph
+ctrl+M : indent the paragraph(m for modify)
+ctrl+Q : remove paragraph formatting(q for quit)
 shift+enter : line break(moves to next line)
 ctrl+enter : page break(moves to next page)
 ctrl+alt+s : (alt=alag, s=split)split/unsplit document(also alt+shift+c,c=close for unsplit)
