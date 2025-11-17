@@ -1,0 +1,4 @@
+copyleft/reciprocal license : any modified use of the original product will also come in the same license as for the original product license, e.g. General Public License(GPL) is that if the parent product is free then it's modified product will also needs to be free(i.e. the license is continued)
+offline messaging : message without using public infrastructure(cell tower/internet, public wifi), but uses bluetooth or direct wifi(wifi direct/local connection) connections btw 2 devices e.g. screen mirroring is wifi direct use & does not connect to the internet
+modem>gateway>router : convert signal to digital form(converting 1 protocal to other e.g. to digital signal)/connect internet to router(public network to local network)>connect & share to different devices(through wifi)
+cookie : a text file containing string of browsing info on hard disk of the computer
