@@ -9,3 +9,8 @@ alt+enter : new line/1 line space btw the lines of the paragraph(will just make 
 f3 : opens the past names dialogue from which you can choose any of the data associated with the name(see the playlist video for defined names to remember everything)
 ribbon bar : the horizontal bar in office applications like file, home, insert draw BUT NO EDIT BUTTON REMEMBER(but in general applications we call it menu bar e.g. android studio with 3 bars=manu bar containing the edit option as well & settings etc.)(generally title bar at top=appllication name, status bar at botton=status of the current operation)
 lcm : lcm(5,6,35)=35
+len : no. of of characters in the cell
+financial function : FV, IPMT, XIRR, PMT, IRR, RATE, NPV
+logical functions :     AND, NOT, OR, TRUE, IFERROR, XOR, LO
+mathematical function : EVEN, SUM, POWER, SUMIF, LOG
+virus vs malware : VIRUS(peice of code to damage) is subset of MALWARE(viruses, worms, ransomware)

@@ -21,3 +21,8 @@ ctrl+z/alt+backspace : undo
 ctrl+y/ctrl+shift+z(does not working in my laptop) : redo that was undone
 escape : cancel the dialogue/command
 what is hidden by default but shows after ctrl+* : paragraph mark(mirrored dark P), line break(enter line symbol), space(middle dot) etc.
+alignment : left/right, centre/justify(evenly fill the line)
+ctrl+D : font dialogue
+ctrl+shift+F : moves directly to F-ont dialogue box's F-ont type/font name feild
+ctrl+shift+P : P for power=size(moves directly to font dialogue box's font size field)
+line spacing : click on line, now ctrl+1/5/2 for 1/1.5.2 LINES SPACE btw current & the next line

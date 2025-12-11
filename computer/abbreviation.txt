@@ -1,0 +1,2 @@
+SMTP : SIMPLE mail transfer protocol(yaad kar tune jo official mail banayi thi, SIMPLE tha)
+
