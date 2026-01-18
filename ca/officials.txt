@@ -33,6 +33,7 @@ Minister of Agriculture and Farmers' Welfare: Shivraj Singh Chouhan
 Minister of Road Transport and Highways: Nitin Gadkari
 Minister of Micro, Small and Medium Enterprises (MSME): Jitan Ram Manjhi
 Minister of Railways and Minister of Information and Broadcasting: Ashwini Vaishnaw
+Minister of communication : Jyotiraditya M. scindia
 Minister of Education: Dharmendra Pradhan
 Minister of Commerce and Industry: Piyush Goyal
 Minister of Health and Family Welfare: Jagat Prakash Nadda
@@ -55,7 +56,7 @@ Solicitor General of India: Tushar Mehta
 Cj of delhi high court : Devendra kumar upadhayay(214-231, 214-1 hc for each state,age<62 not 65 that is for SC , 25 HCs as of now, oldest-calcutta, bombay, madras in 1862)
 chairman, UPSC : ajay kumar(replacing preeti Sudan)[part 14 : 308-323 spcifically for upsc 315-323, 316-be appointed by president, 6 years term or <65age]
 Comptroller and Auditor General (CAG, 6 years or <65) | CGA(controller general of accounts, non constitutional body, principal accounting advisor to GOI, Department of expenditure, finance ministry) : Kundu Sanjay Murthy(148-151 i.e. in last of the union articles) | TCA Kalyani
-chairperson, SEBI(Security & exchange board of india,mumbai, finance minsitry) : Tuhin kant pandey
+chairperson, SEBI(Security & exchange board of india,mumbai, finance minsitry) : Tuhin kanta(marathi bolte) pandey
 finance secretary/admin head of finance minsitry : ajay seth(2 years)
 Chief Election Commissioner: Gyanesh Kumar(324-eci, 6 years or <65)[first was Sukumar Sen]
 Governor, RBI(1935, mumbai) | RBI deputy Governor: Sanjay Malhotra(first-sir osborne smith) | shirish chandra Murm(replacing M. rajeshwar rao)
@@ -111,3 +112,4 @@ chairman, finance commission(1951) : Arvind Panagariya(280-appointed by presiden
 chairman, National Commission for scheduled caste(2004, constitutional body, minsitry of social justice) : Kishor makwana(338-sc, 338a-commission fo st, 338b-backward classes(102 CAA-ambulance), 338c-proposed for ews, part 16-330-342-special provision to certain classes)
 chairperson, national commission for backward classes(BC)(NCBC, 1993, caa102, 338b, b for backward>) : Hansraj gangaram ahir
 CEO, NITI(national institute for transforming india, 2015, delhi, ministry of planning) ayog : BVR Subrahmanyam(chairman=PM, vice chairman-suman bery(parul berry?>))
+Chairman, SSC : S. Gopala-krishnan
